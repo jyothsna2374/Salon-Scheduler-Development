@@ -91,17 +91,17 @@ Analyzes historical booking patterns to:
 
 ```text
 ┌──────────────────────┐
-│ Customer Web App     │
+  Customer Web App     
 └──────────┬───────────┘
            │
            ▼
 ┌──────────────────────┐
-│ Next.js Frontend     │
+  Next.js Frontend     
 └──────────┬───────────┘
            │ REST API
            ▼
 ┌──────────────────────┐
-│ NestJS Backend       │
+  NestJS Backend       
 └───────┬──────┬───────┘
         │      │
         ▼      ▼
@@ -121,7 +121,7 @@ Resend Email
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -418,24 +418,6 @@ npm run test:cov
 
 ---
 
-## 📈 Future Improvements
-
-* AI chatbot booking assistant
-* Voice-based appointment booking
-* Multi-branch salon support
-* Subscription memberships
-* Loyalty rewards
-* Dynamic pricing engine
-* AI no-show prediction
-* Calendar synchronization
-* WhatsApp booking integration
-
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
 
 ## 👩‍💻 Author
 
